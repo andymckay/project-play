@@ -1,0 +1,54 @@
+[
+    {
+        "name": "0% Confidence",
+        "color": "b60205"
+    },
+    {
+        "name": "10% Confidence",
+        "color": "b60205"
+    },
+    {
+        "name": "20% Confidence",
+        "color": "e99695"
+    },
+    {
+        "name": "30% Confidence",
+        "color": "fbca04"
+    },
+    {
+        "name": "40% Confidence",
+        "color": "fbca04"
+    },
+    {
+        "name": "50% Confidence",
+        "color": "fef2c0"
+    },
+    {
+        "name": "60% Confidence",
+        "color": "fef2c0"
+    },
+    {
+        "name": "70% Confidence",
+        "color": "c2e0c6"
+    },
+    {
+        "name": "80% Confidence",
+        "color": "c2e0c6"
+    },
+    {
+        "name": "90% Confidence",
+        "color": "0e8a16"
+    },
+    {
+        "name": "Done",
+        "color": "0e8a16"
+    },
+    {
+        "name": "Blocked",
+        "color": "000000"
+    },
+    {
+        "name": "Deprioritized",
+        "color": "bfd4f2"
+    }
+]
