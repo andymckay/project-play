@@ -1,0 +1,38 @@
+
+  .hero {
+      vertical-align: middle;
+      padding-top: 5vh;
+      font-size: 5em;
+      line-height: 2.3em;
+  }
+  
+  .muted {
+      color: grey;
+      font-size: 0.4em;
+      line-height: 1.5em;
+  }
+  
+  td {
+      margin: 1px;
+  }
+  
+  .anchor, .anchor:visited {
+      color: lightgrey;
+  }
+  
+  dl {
+      margin: 0;
+  }
+  
+  span.label-info a {
+      color: white;
+  }
+  
+  dt {
+      margin-left: 2em;
+  }
+  
+  dd {
+      margin-left: 4em;
+  }
+  
